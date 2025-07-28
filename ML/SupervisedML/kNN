@@ -1,0 +1,71 @@
+These are flash cards from knn
+
+Confusion Matrix
+A table used to describe the performance of a classification model, illustrating true vs. predicted values.
+
+Multi class classification
+A classification task involving more than two classes, such as predicting tier categories for stores.
+
+Value counts
+A method to count occurrences of each unique value, used in KNN for determining class frequency among neighbors.
+
+PCA
+Principal Component Analysis, a technique to reduce dimensionality of data for visualization or analysis.
+
+Non linear data
+Data that does not follow a straight line, complicating tasks for linear models like logistic regression.
+
+Feature engineering
+The process of using domain knowledge to create features that better capture underlying patterns in data.
+
+
+Data imbalance
+A scenario where some classes in the data set have significantly more samples than others, affecting model performance.
+
+Noise in data
+Random variations in the data that do not capture true signal, challenging the accuracy of models like KNN.
+
+
+KNN
+K-nearest neighbors, a non-parametric classification algorithm that predicts a test data's class by majority vote of its neighbors.
+
+
+Euclidean distance
+A distance measure used in KNN to find the nearest neighbors based on the shortest distance between points.
+
+
+argmax
+A function that returns the index of the maximum value in a list, used in KNN for predicting the majority label.
+
+Classification Report
+A report showing precision, recall, F1-score, and other metrics for a classification model's performance.
+
+Minkowski Distance
+A generalized distance metric that includes both Euclidean (p=2) and Manhattan (p=1) as special cases.
+
+Curse of dimensionality
+A phenomenon where Euclidean distance becomes less effective in high-dimensional spaces.
+
+
+OHE
+A method to convert categorical features into a format that can be provided to machine learning algorithms to do a better job in prediction.
+
+Hyperparameter tuning
+The process of choosing the set of optimal hyperparameters for a learning algorithm.
+
+
+Validation set
+A subset of the data used to fine-tune the model parameters, only accessible during training.
+
+Overfitting
+A modeling error which occurs when a function fits the noise in the data instead of the signal.
+
+Underfitting
+A modeling error in data predictions due to the model being too simple.
+
+
+locality sensitivity hashing(LSH)
+An algorithmic method of grouping similar data points based on hashing for faster KNN searches.
+
+SKLearn
+A machine learning library in Python, popular for data mining and data analysis.
