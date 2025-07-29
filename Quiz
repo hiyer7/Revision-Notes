@@ -1,0 +1,29 @@
+Sure Zalak! Here's a *NumPy and Pandas quiz (non-MCQ)* with 10 questions. These are *direct short-answer or coding-style questions* to test your conceptual clarity and hands-on practice.
+
+---
+
+### 🔢 *NumPy Questions (1–5)*
+
+1. *Create a 4x4 NumPy array of random integers between 10 and 99. Then extract the diagonal elements.*
+
+2. **What is the difference between reshape() and resize() in NumPy?**
+
+3. **How would you compute the element-wise square root of a NumPy array, but return NaN instead of error for negative values?**
+
+4. **Given two NumPy arrays a = np.array([1, 2, 3]) and b = np.array([4, 5, 6]), how do you stack them vertically and horizontally?**
+
+5. **What is the output shape of np.dot(a, b) where a is shape (3, 2) and b is shape (2, 4)?**
+
+---
+
+### 🐼 *Pandas Questions (6–10)*
+
+6. **What is the difference between loc[], iloc[], and at[] in Pandas? When would you prefer at[]?**
+
+7. **You have a DataFrame with a column Salary. How would you replace all missing values in this column with the median salary?**
+
+8. **Write a line of code to return the top 5 rows with the highest sales in a df DataFrame, where sales column is named 'TotalSales'.**
+
+9. *How would you group a DataFrame by 'Region' and 'Category' and find the average of 'Profit' for each group?*
+
+10. **What is the difference between merge(), join(), and concat() in Pandas?**
